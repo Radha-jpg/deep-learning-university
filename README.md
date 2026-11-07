@@ -159,7 +159,7 @@ The `models/` directory contains the saved models if you choose to upload them. 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Age-Gender-Prediction.git](https://github.com/Radha-jpg/deep-learning-university.git
+git clone https://github.com/Radha-jpg/deep-learning-university.git
 
 cd Age-Gender-Prediction
 ```
